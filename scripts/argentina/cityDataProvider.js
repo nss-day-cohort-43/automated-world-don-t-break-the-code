@@ -1,6 +1,14 @@
 const cityCollection = [
     {
-        name: "City",
-        population: "Number goes here"
-    }
+        name: "Buenos Aires",
+        population: 2890000
+    },
+    {
+        name: "Mendoza",
+        population: 115041
+    },
+    {
+        name: "Rosario",
+        population: 910000
+    },
 ]
