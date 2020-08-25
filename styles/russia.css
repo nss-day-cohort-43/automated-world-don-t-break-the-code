@@ -21,3 +21,37 @@ nav a.active {
     background-color: steelblue;
     color: white;
 }
+
+.travelSite {
+    margin: auto;
+    text-align: center;
+  }
+  .travelPlaces {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .travelCard {
+    width: 40%;
+    margin: 1em;
+    padding: 1em;
+    flex-basis: auto;
+  }
+  
+  .cardImage {
+    width:  100%;
+    height: 500px;
+    object-fit: cover;
+    border: 3px black solid;
+    border-radius: 5px;
+  }
+  
+  .travelCard a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .travelCard:hover{
+    opacity: 0.8;
+  }
