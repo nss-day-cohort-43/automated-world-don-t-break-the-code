@@ -2,7 +2,7 @@ const cityCollection = [
     {
         name: "Helsinki",
         title: "Capital",
-        population: 1,268,296,
+        population: 1268296,
     },
     {
         name: "Rovaniemi",
