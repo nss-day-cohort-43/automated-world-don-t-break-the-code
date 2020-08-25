@@ -13,6 +13,8 @@ h2 {
 .landmarkListCard {
     display: flex;
     justify-content: center;
+    text-align: center;
+
     
 }
 
