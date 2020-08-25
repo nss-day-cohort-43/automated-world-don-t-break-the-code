@@ -50,8 +50,8 @@ contentElement.innerHTML += `${landmarkHTMLRepresentation}`
 export const Landmark = (landmarkObject) => {
     return `
         <div class="landmarkListCard">
-            <div class="cardImage"> <div>${landmarkObject.name}</div>
-                <img class="landmark-image" src="images/${landmarkObject.image}" alt="${landmarkObject.name}>
+            <div class="landmarkCardImage"> <div>${landmarkObject.name}</div>
+                <img class="landmark-image" src="images/${landmarkObject.image}" alt="${landmarkObject.name}">
             </div>       
         </div>`
 }
