@@ -1,7 +1,11 @@
 const leaderCollection = [
     {
-        name: "Vladimir Putin",
-        image: "vladimirPutin.jpg",
+        name: "",
+        image: "",
+    },
+    {
+        name: "",
+        image: "",
     },
 ]
 
