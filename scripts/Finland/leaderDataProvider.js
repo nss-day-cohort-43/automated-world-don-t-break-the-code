@@ -2,7 +2,7 @@ const leaderCollection = [
     {
         name: "Sauli Niinist",
         title: "President",
-        image: "President_of-Finland.jpg",
+        image: "President_of_Finland.jpg",
     },
     {
         name: "Sanna Marin",

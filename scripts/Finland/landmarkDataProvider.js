@@ -8,7 +8,7 @@ const landmarkCollection = [
         image: "MarketSquare.jpg",
     },
     {
-        name: "Turku Castle",
+        name: "",
         image: "TurKuCastle.jpg",
     },
 ];
