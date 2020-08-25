@@ -31,7 +31,7 @@ contentElement.innerHTML += `${leaderHTMLRepresentation}`
 export const Leader = (leaderObject) => {
     return `
         <div class="leaderListCard">
-            <div class="cardImage"> <div>${leaderObject.name}</div>
+            <div class="leaderCardImage"> <div>${leaderObject.name}</div>
             <img class="leader-image" src="images/${leaderObject.image}" alt="${leaderObject.name}">
             </div>       
         </div>`

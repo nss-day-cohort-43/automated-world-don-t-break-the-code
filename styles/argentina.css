@@ -1,0 +1,25 @@
+h2 {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.cityListCard {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.landmarkListCard {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.leaderListCard {
+    display: flex;
+    justify-content: center;
+   
+}
+
+
