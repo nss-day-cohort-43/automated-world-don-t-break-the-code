@@ -39,7 +39,7 @@ contentElement.innerHTML += `${cityHTMLRepresentation}`
 export const City = (cityObject) => {
     return `
         <div class="cityListCard">
-            <div class="cardImage">
+            <div class="cityCardImage">
 
                 </div>
                     <ul>
